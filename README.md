@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**kurosSIRO/kurosSIRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# kuro's SIRO
+***SIRO*** is a communication robot created by using Raspberry Pi and equipped with basic robot functions such as autonomous movement, voice recognition, image recognition, and speech.He lives with his family at home.
+<br>
+<br>
+***SIRO***はRaspberry Piを使って製作された自律移動、音声認識、画像認識、発話といったロボットの基本機能を備えたコミュニケーションロボットです。
+彼は家で家族と一緒に暮らしています。
+<br>
+<br>
+<img alt="SIRO_spec" src="./SIRO_spec.JPG" width="100%" />
+<img alt="SIRO_spec" src="./SIRO_spec2.JPG" width="100%" />
